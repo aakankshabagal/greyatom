@@ -1,2 +1,2 @@
 # greyatom
-my first project is creating a bio and host on github.
+my branch is computer science and engineering
